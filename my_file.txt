@@ -1,0 +1,6 @@
+Hello, this is line 1.
+This is line 2, which contains a number: 42.
+Finally, this is line 3.
+Appending line 4: Python is fun!
+Appending line 5: The answer is 7.
+Appending line 6: Have a great day!
